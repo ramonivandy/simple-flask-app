@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/simple-flask-app.git
 #### Run docker build
 
 ```bash
-  docker build -t simple-flask-app:latest
+  docker build -t simple-flask-app:latest .
 ```
 
 ```bash
