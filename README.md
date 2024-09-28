@@ -25,6 +25,8 @@ git clone https://github.com/yourusername/simple-flask-app.git
 
 ```bash
   docker build -t simple-flask-app:latest .
+
+  // Pay attention with the dot after latest!!
 ```
 
 ```bash
